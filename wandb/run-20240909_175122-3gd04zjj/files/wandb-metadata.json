@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.3-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-09-09T09:51:24.513333",
+    "startedAt": "2024-09-09T09:51:22.261516",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:zerocpp/Wandb_Tutorial.git",
+        "commit": "04f13d74b5cee4c25a746517102c293738ba80f3"
+    },
+    "email": "home@mac",
+    "root": "/Users/songzhipeng/code/Wandb_Tutorial",
+    "host": "zmac.local",
+    "username": "songzhipeng",
+    "executable": "/Users/songzhipeng/code/Wandb_Tutorial/venv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 9.43606185913086
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

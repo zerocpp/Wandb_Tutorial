@@ -5,6 +5,10 @@ moviepy
 imageio
 matplotlib
 plotly
+torch
 torchvision
-dm-launchpad-nightly
+torchaudio
+transformers
+notebook
+# dm-launchpad-nightly
 tqdm==4.64.0
